@@ -1,7 +1,7 @@
 # Hi, I'm Johann Dale S. Nocete! 👋
 
 I am a passionate IT student at Xavier University, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
-![Johann-Nocete's Stats](https://github.com/Johann-Nocete/Johann-Nocete/edit/main/README.md)
+![Johann-Nocete's Stats](https://github.com/Johann-Nocete/Johann-Nocete.git)
 
 ## 🚀 About Me
 - 🔭 I'm currently pursuing my Bachelor's Degree in Information Technology at Xavier University - Ateneo de Cagayan.
