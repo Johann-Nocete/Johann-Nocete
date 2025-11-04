@@ -20,4 +20,7 @@ I am a passionate IT student at Xavier University, driven by a curiosity for tec
 - 🌟 Completed Git & GitHub Setup 2024 with an already existing account.
 - 🔭 I’m currently working on my final API project.
 
+⚡ Fun Fact!
+-I'm happy when the code works prefectly!
+
 Thanks for stopping by!
